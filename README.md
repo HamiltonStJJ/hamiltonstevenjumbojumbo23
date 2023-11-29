@@ -17,6 +17,8 @@
 ✔ 🏠  Vivo en Ambato - Ecuador   🏠<br>
 ✔ 📚 Soy estudiante Universitario de la Universidad tecnica de Ambato   📚<br>
 <br><br><br>
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+ 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Mis Hobbies***
 
 ✔ Soy bartender en el sector de la Peninsula <br>
@@ -44,10 +46,9 @@
 
 
 <h4> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">&nbsp;Contactame por estos medios</h4>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/hamiltonstevenjumbojumbo23'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
 <br>
+
+Credit: [hhpr98](https://github.com/hamiltonstevenjumbojumbo23)
+Last Edited on:  29/11/2023
 
