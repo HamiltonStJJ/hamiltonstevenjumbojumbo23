@@ -29,8 +29,7 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Mis Proyectos***
-<br> Mi Pagina Personal  <code> <img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"> </code><br>
-💻<br><br>
+<br><br>💻<br><br>
 💻<br><br>
 💻<br><br>
 
