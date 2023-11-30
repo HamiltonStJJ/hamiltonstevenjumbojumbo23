@@ -13,7 +13,7 @@
 
 ✔ 🕸️ Mi nombre es Hamilton Steven Jumbo Jumbo 🕸️ <br>
 ✔ Tengo 20 años<br>
-✔ Tengo dos nacionalidades: Ecuatoriano - Español <br>
+✔ Tengo dos nacionalidades: Ecuatoriano<br>
 ✔ 🏠  Vivo en Ambato - Ecuador   🏠<br>
 ✔ 📚 Soy estudiante Universitario de la Universidad tecnica de Ambato   📚<br>
 <br><br><br>
@@ -51,7 +51,12 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> </code>
 <br><br><br>
-  
+
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=andermendoza&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andermendoza&layout=compact&theme=gotham&langs_count=8"/>
+</div>
+<br><br><br>
 
 
 <h4> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">&nbsp;Contactame por estos medios</h4>
