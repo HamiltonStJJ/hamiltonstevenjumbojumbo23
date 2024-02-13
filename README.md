@@ -12,8 +12,6 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Acerca de mi***
 
 ✔ 🕸️ Mi nombre es Hamilton Steven Jumbo Jumbo 🕸️ <br>
-✔ Tengo 20 años<br>
-✔ Tengo dos nacionalidades: Ecuatoriano<br>
 ✔ 🏠  Vivo en Ambato - Ecuador   🏠<br>
 ✔ 📚 Soy estudiante Universitario de la Universidad tecnica de Ambato   📚<br>
 <br><br><br>
